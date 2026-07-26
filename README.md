@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0312-burst-balloons](https://github.com/HarshMohanSahay/SQL-50/tree/master/0312-burst-balloons) |
+| [0628-maximum-product-of-three-numbers](https://github.com/HarshMohanSahay/SQL-50/tree/master/0628-maximum-product-of-three-numbers) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -26,4 +27,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0433-minimum-genetic-mutation](https://github.com/HarshMohanSahay/SQL-50/tree/master/0433-minimum-genetic-mutation) |
+## Math
+|  |
+| ------- |
+| [0628-maximum-product-of-three-numbers](https://github.com/HarshMohanSahay/SQL-50/tree/master/0628-maximum-product-of-three-numbers) |
+## Sorting
+|  |
+| ------- |
+| [0628-maximum-product-of-three-numbers](https://github.com/HarshMohanSahay/SQL-50/tree/master/0628-maximum-product-of-three-numbers) |
 <!---LeetCode Topics End-->
