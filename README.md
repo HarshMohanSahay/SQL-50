@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0045-jump-game-ii](https://github.com/HarshMohanSahay/SQL-50/tree/master/0045-jump-game-ii) |
 | [0312-burst-balloons](https://github.com/HarshMohanSahay/SQL-50/tree/master/0312-burst-balloons) |
+| [0926-flip-string-to-monotone-increasing](https://github.com/HarshMohanSahay/SQL-50/tree/master/0926-flip-string-to-monotone-increasing) |
 ## Hash Table
 |  |
 | ------- |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0433-minimum-genetic-mutation](https://github.com/HarshMohanSahay/SQL-50/tree/master/0433-minimum-genetic-mutation) |
+| [0926-flip-string-to-monotone-increasing](https://github.com/HarshMohanSahay/SQL-50/tree/master/0926-flip-string-to-monotone-increasing) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/HarshMohanSahay/SQL-50/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Breadth-First Search
 |  |
