@@ -21,10 +21,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/HarshMohanSahay/SQL-50/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0433-minimum-genetic-mutation](https://github.com/HarshMohanSahay/SQL-50/tree/master/0433-minimum-genetic-mutation) |
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/HarshMohanSahay/SQL-50/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0433-minimum-genetic-mutation](https://github.com/HarshMohanSahay/SQL-50/tree/master/0433-minimum-genetic-mutation) |
 | [0926-flip-string-to-monotone-increasing](https://github.com/HarshMohanSahay/SQL-50/tree/master/0926-flip-string-to-monotone-increasing) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/HarshMohanSahay/SQL-50/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -49,4 +51,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/HarshMohanSahay/SQL-50/tree/master/3517-smallest-palindromic-rearrangement-i) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/HarshMohanSahay/SQL-50/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
