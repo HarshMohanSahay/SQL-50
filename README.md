@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0045-jump-game-ii](https://github.com/HarshMohanSahay/SQL-50/tree/master/0045-jump-game-ii) |
 | [0312-burst-balloons](https://github.com/HarshMohanSahay/SQL-50/tree/master/0312-burst-balloons) |
+| [0509-fibonacci-number](https://github.com/HarshMohanSahay/SQL-50/tree/master/0509-fibonacci-number) |
 | [0926-flip-string-to-monotone-increasing](https://github.com/HarshMohanSahay/SQL-50/tree/master/0926-flip-string-to-monotone-increasing) |
 ## Hash Table
 |  |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/HarshMohanSahay/SQL-50/tree/master/0268-missing-number) |
+| [0509-fibonacci-number](https://github.com/HarshMohanSahay/SQL-50/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/HarshMohanSahay/SQL-50/tree/master/0628-maximum-product-of-three-numbers) |
 ## Sorting
 |  |
@@ -67,4 +69,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/HarshMohanSahay/SQL-50/tree/master/0268-missing-number) |
+## Recursion
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/HarshMohanSahay/SQL-50/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/HarshMohanSahay/SQL-50/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
