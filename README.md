@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/HarshMohanSahay/SQL-50/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/HarshMohanSahay/SQL-50/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/HarshMohanSahay/SQL-50/tree/master/0628-maximum-product-of-three-numbers) |
+| [1680-concatenation-of-consecutive-binary-numbers](https://github.com/HarshMohanSahay/SQL-50/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 ## Sorting
 |  |
 | ------- |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/HarshMohanSahay/SQL-50/tree/master/0268-missing-number) |
+| [1680-concatenation-of-consecutive-binary-numbers](https://github.com/HarshMohanSahay/SQL-50/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 ## Recursion
 |  |
 | ------- |
@@ -84,4 +86,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0930-binary-subarrays-with-sum](https://github.com/HarshMohanSahay/SQL-50/tree/master/0930-binary-subarrays-with-sum) |
+## Simulation
+|  |
+| ------- |
+| [1680-concatenation-of-consecutive-binary-numbers](https://github.com/HarshMohanSahay/SQL-50/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 <!---LeetCode Topics End-->
