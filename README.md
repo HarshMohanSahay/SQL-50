@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0045-jump-game-ii](https://github.com/HarshMohanSahay/SQL-50/tree/master/0045-jump-game-ii) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/HarshMohanSahay/SQL-50/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0268-missing-number](https://github.com/HarshMohanSahay/SQL-50/tree/master/0268-missing-number) |
 | [0312-burst-balloons](https://github.com/HarshMohanSahay/SQL-50/tree/master/0312-burst-balloons) |
 | [0628-maximum-product-of-three-numbers](https://github.com/HarshMohanSahay/SQL-50/tree/master/0628-maximum-product-of-three-numbers) |
@@ -18,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0045-jump-game-ii](https://github.com/HarshMohanSahay/SQL-50/tree/master/0045-jump-game-ii) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/HarshMohanSahay/SQL-50/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0312-burst-balloons](https://github.com/HarshMohanSahay/SQL-50/tree/master/0312-burst-balloons) |
 | [0509-fibonacci-number](https://github.com/HarshMohanSahay/SQL-50/tree/master/0509-fibonacci-number) |
 | [0926-flip-string-to-monotone-increasing](https://github.com/HarshMohanSahay/SQL-50/tree/master/0926-flip-string-to-monotone-increasing) |
