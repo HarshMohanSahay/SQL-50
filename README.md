@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/HarshMohanSahay/SQL-50/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0127-word-ladder](https://github.com/HarshMohanSahay/SQL-50/tree/master/0127-word-ladder) |
 | [0268-missing-number](https://github.com/HarshMohanSahay/SQL-50/tree/master/0268-missing-number) |
 | [0433-minimum-genetic-mutation](https://github.com/HarshMohanSahay/SQL-50/tree/master/0433-minimum-genetic-mutation) |
 | [0930-binary-subarrays-with-sum](https://github.com/HarshMohanSahay/SQL-50/tree/master/0930-binary-subarrays-with-sum) |
@@ -34,12 +35,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/HarshMohanSahay/SQL-50/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0127-word-ladder](https://github.com/HarshMohanSahay/SQL-50/tree/master/0127-word-ladder) |
 | [0433-minimum-genetic-mutation](https://github.com/HarshMohanSahay/SQL-50/tree/master/0433-minimum-genetic-mutation) |
 | [0926-flip-string-to-monotone-increasing](https://github.com/HarshMohanSahay/SQL-50/tree/master/0926-flip-string-to-monotone-increasing) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/HarshMohanSahay/SQL-50/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0127-word-ladder](https://github.com/HarshMohanSahay/SQL-50/tree/master/0127-word-ladder) |
 | [0433-minimum-genetic-mutation](https://github.com/HarshMohanSahay/SQL-50/tree/master/0433-minimum-genetic-mutation) |
 ## Math
 |  |
@@ -92,4 +95,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/HarshMohanSahay/SQL-50/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
+## Bidirectional Search
+|  |
+| ------- |
+| [0127-word-ladder](https://github.com/HarshMohanSahay/SQL-50/tree/master/0127-word-ladder) |
 <!---LeetCode Topics End-->
