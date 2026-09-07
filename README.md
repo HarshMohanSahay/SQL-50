@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0045-jump-game-ii](https://github.com/HarshMohanSahay/SQL-50/tree/master/0045-jump-game-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/HarshMohanSahay/SQL-50/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0219-contains-duplicate-ii](https://github.com/HarshMohanSahay/SQL-50/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/HarshMohanSahay/SQL-50/tree/master/0268-missing-number) |
 | [0312-burst-balloons](https://github.com/HarshMohanSahay/SQL-50/tree/master/0312-burst-balloons) |
 | [0628-maximum-product-of-three-numbers](https://github.com/HarshMohanSahay/SQL-50/tree/master/0628-maximum-product-of-three-numbers) |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/HarshMohanSahay/SQL-50/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0127-word-ladder](https://github.com/HarshMohanSahay/SQL-50/tree/master/0127-word-ladder) |
+| [0219-contains-duplicate-ii](https://github.com/HarshMohanSahay/SQL-50/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/HarshMohanSahay/SQL-50/tree/master/0268-missing-number) |
 | [0433-minimum-genetic-mutation](https://github.com/HarshMohanSahay/SQL-50/tree/master/0433-minimum-genetic-mutation) |
 | [0930-binary-subarrays-with-sum](https://github.com/HarshMohanSahay/SQL-50/tree/master/0930-binary-subarrays-with-sum) |
@@ -69,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/HarshMohanSahay/SQL-50/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0219-contains-duplicate-ii](https://github.com/HarshMohanSahay/SQL-50/tree/master/0219-contains-duplicate-ii) |
 | [0930-binary-subarrays-with-sum](https://github.com/HarshMohanSahay/SQL-50/tree/master/0930-binary-subarrays-with-sum) |
 ## Binary Search
 |  |
