@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/HarshMohanSahay/SQL-50/tree/master/0001-two-sum) |
 | [0045-jump-game-ii](https://github.com/HarshMohanSahay/SQL-50/tree/master/0045-jump-game-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/HarshMohanSahay/SQL-50/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0128-longest-consecutive-sequence](https://github.com/HarshMohanSahay/SQL-50/tree/master/0128-longest-consecutive-sequence) |
 | [0219-contains-duplicate-ii](https://github.com/HarshMohanSahay/SQL-50/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/HarshMohanSahay/SQL-50/tree/master/0268-missing-number) |
 | [0312-burst-balloons](https://github.com/HarshMohanSahay/SQL-50/tree/master/0312-burst-balloons) |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/HarshMohanSahay/SQL-50/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/HarshMohanSahay/SQL-50/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0127-word-ladder](https://github.com/HarshMohanSahay/SQL-50/tree/master/0127-word-ladder) |
+| [0128-longest-consecutive-sequence](https://github.com/HarshMohanSahay/SQL-50/tree/master/0128-longest-consecutive-sequence) |
 | [0219-contains-duplicate-ii](https://github.com/HarshMohanSahay/SQL-50/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/HarshMohanSahay/SQL-50/tree/master/0268-missing-number) |
 | [0433-minimum-genetic-mutation](https://github.com/HarshMohanSahay/SQL-50/tree/master/0433-minimum-genetic-mutation) |
@@ -115,4 +117,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/HarshMohanSahay/SQL-50/tree/master/0206-reverse-linked-list) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/HarshMohanSahay/SQL-50/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
