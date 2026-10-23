@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0312-burst-balloons](https://github.com/HarshMohanSahay/SQL-50/tree/master/0312-burst-balloons) |
 | [0628-maximum-product-of-three-numbers](https://github.com/HarshMohanSahay/SQL-50/tree/master/0628-maximum-product-of-three-numbers) |
 | [0930-binary-subarrays-with-sum](https://github.com/HarshMohanSahay/SQL-50/tree/master/0930-binary-subarrays-with-sum) |
+| [1200-minimum-absolute-difference](https://github.com/HarshMohanSahay/SQL-50/tree/master/1200-minimum-absolute-difference) |
 | [2271-maximum-white-tiles-covered-by-a-carpet](https://github.com/HarshMohanSahay/SQL-50/tree/master/2271-maximum-white-tiles-covered-by-a-carpet) |
 ## Dynamic Programming
 |  |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0268-missing-number](https://github.com/HarshMohanSahay/SQL-50/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/HarshMohanSahay/SQL-50/tree/master/0628-maximum-product-of-three-numbers) |
+| [1200-minimum-absolute-difference](https://github.com/HarshMohanSahay/SQL-50/tree/master/1200-minimum-absolute-difference) |
 | [2271-maximum-white-tiles-covered-by-a-carpet](https://github.com/HarshMohanSahay/SQL-50/tree/master/2271-maximum-white-tiles-covered-by-a-carpet) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/HarshMohanSahay/SQL-50/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Greedy
