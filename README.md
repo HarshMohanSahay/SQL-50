@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/HarshMohanSahay/SQL-50/tree/master/0007-reverse-integer) |
 | [0268-missing-number](https://github.com/HarshMohanSahay/SQL-50/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/HarshMohanSahay/SQL-50/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/HarshMohanSahay/SQL-50/tree/master/0628-maximum-product-of-three-numbers) |
